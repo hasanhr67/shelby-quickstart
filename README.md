@@ -75,3 +75,4 @@ After completing the steps above, you now know everything necessary to start bui
 
 ### Watch for Changes
 To watch for changes as you build, use `npm run dev`. This will start a long-running process that automatically re-compiles everything in `src/`
+Testing Shelby quickstart example
